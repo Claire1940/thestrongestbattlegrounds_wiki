@@ -11,12 +11,12 @@
     }
   },
   "nav": {
-    "guides": "Anleitungen",
-    "crafting": "Herstellung",
-    "items": "Gegenstände",
-    "biomes": "Biome",
-    "building": "Bauen",
-    "support": "Unterstützung"
+    "guide": "Guide",
+    "characters": "Characters",
+    "combos": "Combos",
+    "updates": "Updates",
+    "cosmetics": "Cosmetics",
+    "emotes": "Emotes"
   },
   "common": {
     "home": "Startseite",

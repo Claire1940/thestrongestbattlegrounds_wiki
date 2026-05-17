@@ -1,0 +1,250 @@
+import { Map, Swords, Trophy, Target, Shield, Sparkles } from 'lucide-react'
+import { Callout } from '@/components/mdx/Callout'
+import { Card, CardGrid } from '@/components/mdx/CardGrid'
+import { Checklist } from '@/components/mdx/Checklist'
+import { FAQ } from '@/components/mdx/FAQ'
+import { Steps, Step } from '@/components/mdx/Steps'
+import { Section } from '@/components/mdx/Section'
+import { YouTubeEmbed } from '@/components/mdx/YouTubeEmbed'
+
+export const metadata = {
+  title: "The Strongest Battlegrounds : Guide essentiel du débutant",
+  description: "Maîtrisez The Strongest Battlegrounds avec ce guide complet du débutant couvrant les contrôles, les personnages, les esquives et les mécanismes de combat.",
+  category: "Guide",
+  image: "https://placehold.co/800x400/8B0000/fff?text=Strongest+Battlegrounds+Beginner",
+  date: "2026-05-17",
+  author: "l'équipe Wiki de The Strongest Battlegrounds"
+}
+
+<Callout type="info" title="Guide rapide">
+- **The Strongest Battlegrounds** propose un système de combat robuste inspiré des animes, axé sur les **combos M1**, les compétences uniques des personnages et les mouvements stratégiques.
+- Maîtriser les **esquives (touche Q)** est crucial pour l'évasion, l'engagement et l'extension des combos. Les esquives latérales sont particulièrement polyvalentes.
+- Le **blocage (touche F)** protège contre les attaques de base, mais certaines compétences peuvent le briser, nécessitant un timing précis et une contre-attaque.
+- Chaque personnage possède un **arsenal de mouvements** distinct et un **Mode Ultime** ; comprendre les capacités de votre personnage choisi est la clé du succès.
+- Entraînez-vous dans des **serveurs privés** avec des mannequins d'entraînement pour affiner les combos et les mouvements sans pression.
+</Callout>
+
+<Section icon={Swords} title="Comprendre le combat de base dans The Strongest Battlegrounds">
+The Strongest Battlegrounds offre une expérience de combat dynamique en mode chacun pour soi sur Roblox, où les joueurs s'affrontent en utilisant de puissantes compétences de mêlée et des projectiles explosifs. Pour les nouveaux venus, comprendre les mécanismes de combat de base est essentiel pour survivre et exceller dans cet environnement rapide. Cette section vous présentera les commandes fondamentales et les types d'attaques qui constituent l'épine dorsale de chaque combat.
+
+**Points forts de la vidéo :**
+- Démontre les combos d'attaques de base (M1) et leurs variations.
+- Explique les différents types d'esquives : avant, latérale et arrière.
+- Présente le blocage et son importance au combat.
+
+<YouTubeEmbed videoId="G82hHXqsR3A" title="COMMENT JOUER À The Strongest Battlegrounds - Guide du débutant" />
+
+À la base, le combat tourne autour de vos attaques de base, connues sous le nom de **M1** (Bouton de la souris 1). Ce sont vos principales méthodes pour initier et étendre les combos. Au-delà des simples M1, le jeu introduit des variations qui permettent un jeu plus stratégique et des configurations de combo.
+
+<Callout type="tip" title="Maîtriser les combos M1">
+Entraînez-vous aux différentes variations de combos M1 dans un serveur privé. Le **3M1 + Uppercut** et le **3M1 + Slam** sont essentiels pour configurer des combos avancés et contrôler la position de votre adversaire.
+</Callout>
+
+### Types d'attaques de base
+
+| Type d'attaque   | Saisie (PC)                      | Description                                                                                             | Utilisation principale                               |
+| :--------------- | :------------------------------- | :------------------------------------------------------------------------------------------------------ | :---------------------------------------------------- |
+| **Combo normal** | Maintenir le bouton gauche de la souris | Une séquence de jusqu'à quatre coups qui met l'adversaire en état de ragdoll au dernier coup.         | Dégâts de base, initiation de combo.                 |
+| **Combo Uppercut** | Maintenir le bouton gauche de la souris + Saut | Le dernier coup devient un uppercut, projetant l'adversaire en l'air.                                 | Combos aériens, avantage positionnel.                |
+| **Combo Slam**   | 3 M1s, puis Taper Saut + Attaque      | Après trois coups, un saut et une attaque chronométrés entraînent un puissant slam.                     | Mettre les adversaires au sol, dégâts importants, préparation. |
+
+### Blocage et Coups Critiques
+
+Le blocage est un mécanisme défensif qui peut atténuer les dégâts entrants. En maintenant **F**, vous pouvez vous protéger contre les attaques de base et certaines compétences sous un angle de 180 degrés. Cependant, le blocage ralentit vos mouvements et vous rend vulnérable à certaines attaques qui brisent le blocage.
+
+<Callout type="warning" title="Vulnérabilité du blocage">
+Votre dos est vulnérable lorsque vous bloquez. Les adversaires peuvent utiliser des esquives avant ou des mouvements rapides pour vous contourner et vous frapper par derrière, contournant votre garde.
+</Callout>
+
+Un blocage parfaitement synchronisé contre le M1 d'un adversaire peut entraîner un **Coup Critique**. Cela améliore votre prochaine attaque de base, triplant ses dégâts et préparant le terrain pour des mécanismes plus avancés comme le **Black Flash**. Les Coups Critiques peuvent être enchaînés, récompensant un jeu défensif précis.
+
+### Le pouvoir du Black Flash
+
+Un **Black Flash** est une technique de combat avancée déclenchée en effectuant un blocage parfait après un Coup Critique. Cette attaque puissante inflige six fois les dégâts d'un M1 normal et est indiquée par des particules noires et rouges. Elle nécessite un timing exceptionnel et une maîtrise du blocage.
+
+| Mécanique        | Activation                                                                       | Effet                                                                                                    | Multiplicateur de dégâts |
+| :-------------- | :------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------- | :------------------------ |
+| **Coup Critique** | Blocage parfait sur le M1 de l'adversaire                                        | La prochaine attaque de base inflige des dégâts triples. Peut durer indéfiniment jusqu'à ce qu'il soit mis en état de ragdoll. | **3x**                    |
+| **Black Flash**  | Blocage parfait après un Coup Critique (sans être mis en état de ragdoll)        | La prochaine attaque de base inflige le double des dégâts du Coup Critique (6x M1 normal).               | **6x**                    |
+
+<Callout type="info" title="Limitations du Black Flash">
+Les Black Flashes doivent être effectués sur un joueur, pas sur un mannequin d'entraînement. Ils ont également une courte fenêtre (~4 secondes) après un Coup Critique pour être activés.
+</Callout>
+
+</Section>
+
+<Section icon={Target} title="Maîtriser les mouvements et les esquives">
+Le mouvement est primordial dans The Strongest Battlegrounds. L'utilisation efficace des esquives vous permet d'engager, de désengager, d'éviter les attaques et de vous positionner pour des combos optimaux. Comprendre les propriétés et les temps de recharge de chaque type d'esquive est crucial pour un jeu avancé.
+
+### Types d'esquives
+
+Les esquives sont exécutées en appuyant sur **Q** tout en vous déplaçant dans une direction spécifique. Chaque type a un but unique au combat.
+
+<Callout type="tip" title="Avantage de l'esquive latérale">
+L'**esquive latérale** est généralement considérée comme la plus efficace en raison de son temps de recharge plus court et de l'absence de vulnérabilité après l'esquive, ce qui la rend idéale pour les extensions de combo avancées et les manœuvres d'évasion.
+</Callout>
+
+| Type d'esquive   | Saisie (PC) | Temps de recharge | Portée (Tuiles) | Caractéristiques clés                                                                                             |
+| :--------------- | :---------- | :---------------- | :-------------- | :-------------------------------------------------------------------------------------------------------------- |
+| **Esquive avant** | W + Q       | 5 secondes        | 4.5             | Réduit rapidement la distance, peut auto-attaquer pour 4 % de dégâts. Laisse une brève fenêtre de vulnérabilité. |
+| **Esquive latérale** | A ou D + Q  | 2 secondes        | 3               | Polyvalente pour l'évasion et la préparation de combos. Pas de fenêtre de vulnérabilité. La distance diminue avec une santé plus faible. |
+| **Esquive arrière** | S + Q       | 5 secondes        | 4.5             | Couvre la plus grande distance, principalement utilisée pour échapper aux attaques de zone (comme les Ultimes) ou pour se relever d'un état de ragdoll. |
+
+<Callout type="info" title="Ping et exécution des esquives">
+Les esquives latérales et arrière sont gérées côté client, ce qui signifie qu'elles sont instantanées quel que soit le ping. Les esquives avant sont gérées côté serveur en raison de leur animation d'attaque, ce qui introduit un léger délai en fonction de votre ping.
+</Callout>
+
+### États de Ragdoll et de Roulade
+
+Lorsque vous êtes touché par certaines attaques, vous pouvez entrer dans un état de **ragdoll** ou de **roulade**.
+
+- **Ragdoll** : Vous êtes incapacité pendant 2 secondes mais pouvez effectuer une **Annulation de Ragdoll** (esquive latérale ou arrière) pour récupérer plus tôt et bénéficier d'une brève immunité aux étourdissements.
+- **Roulade** : Vous êtes repoussé et incapable d'utiliser des mouvements d'évasion, à quelques exceptions près. Être touché alors que vous êtes déjà en roulade peut entraîner un ragdoll plus long.
+
+<CardGrid cols={2}>
+  <Card title="Récupération de Ragdoll">
+    - **Durée** : 2 secondes d'incapacité.
+    - **Récupération** : Utilisez une **Esquive latérale** ou une **Esquive arrière** pour annuler tôt.
+    - **Avantage** : Gagnez 0,5 seconde d'immunité aux étourdissements après la récupération.
+  </Card>
+  <Card title="État de Roulade">
+    - **Effet** : Repoussé, impossible d'utiliser des évasions.
+    - **Conflit** : Rouler dans une autre roulade provoque un ragdoll de 3 secondes.
+    - **Stratégie** : Évitez d'être touché alors que vous êtes déjà en roulade pour éviter une incapacité prolongée.
+  </Card>
+</CardGrid>
+
+</Section>
+
+<Section icon={Shield} title="Sélection des personnages et capacités ultimes">
+The Strongest Battlegrounds propose une liste diversifiée de personnages, chacun inspiré de figures emblématiques d'animes, offrant des styles de jeu et des capacités uniques. Actuellement, il y a huit personnages jouables, chacun avec quatre compétences distinctes et au moins un Mode Ultime.
+
+### Archétypes de personnages
+
+Bien que les arsenaux de mouvements spécifiques varient, les personnages se répartissent généralement en archétypes qui dictent leur portée de combat préférée et leur potentiel de combo.
+
+| Archétype        | Caractéristiques clés                                                                                             | Exemple de personnage |
+| :--------------- | :-------------------------------------------------------------------------------------------------------------- | :-------------------- |
+| **Brawler**      | Dégâts de mêlée élevés, combos à courte portée, coups de grâce puissants.                                        | Le Héros le plus fort |
+| **Assassin**     | Grande mobilité, dégâts de burst rapides, axé sur la contre-attaque.                                             | Chasseur de héros    |
+| **Tank/Bruiser** | Durable, attaques à moyenne portée, combine l'attaque et la défense.                                            | Cyborg destructeur    |
+| **Zoner/Ranged** | Se concentre sur le maintien de la distance, les attaques de projectiles, le contrôle de foule.                  | Psychique sauvage     |
+
+<Callout type="success" title="Choisir son personnage principal">
+Expérimentez différents personnages dans un serveur privé. Trouvez un arsenal de mouvements qui complète votre style de jeu préféré, qu'il s'agisse de combats agressifs au corps à corps ou de harcèlement stratégique à distance.
+</Callout>
+
+### Modes Ultimes
+
+Remplir la barre rouge au-dessus de vos compétences active le **Mode Ultime** de votre personnage. Ces transformations ou attaques puissantes peuvent changer le cours d'une bataille. Chaque Ultime est unique, allant des kills garantis en un coup aux dégâts de zone massifs ou aux buffs significatifs.
+
+<CardGrid cols={2}>
+  <Card title="Les Ultimes du Héros le plus fort (Saitama)">
+    - **Death Counter** : Tuer en un coup garanti en cas de contre réussi dans les 10 secondes.
+    - **Table Flip** : Attaque de zone qui inflige des dégâts massifs ou tue les adversaires pris dans l'explosion.
+  </Card>
+  <Card title="L'Ultime du Chasseur de héros (Garou)">
+    - **Mode Rage** : Attaque de zone qui inflige 40 % de la santé de l'adversaire et soigne l'utilisateur. Presque impossible à échapper.
+  </Card>
+</CardGrid>
+
+<Callout type="warning" title="Timing du mode Ultime">
+Les Ultimes ont souvent des "I-frames" (frames d'invincibilité) pendant leur démarrage ou leur exécution. Utilisez cela à votre avantage pour éviter les dégâts entrants ou contrer les Ultimes ennemis.
+</Callout>
+
+</Section>
+
+<Section icon={Sparkles} title="Techniques avancées et pratique">
+Au-delà des bases, The Strongest Battlegrounds offre plusieurs techniques avancées qui peuvent améliorer votre jeu. Une pratique constante est essentielle pour les intégrer à votre flux de combat.
+
+### Combos muraux
+
+Utiliser l'environnement peut considérablement étendre votre potentiel de combo. Chaque personnage a un combo mural unique qui inflige des dégâts supplémentaires.
+
+<Steps>
+  <Step num="1" title="Positionnez votre adversaire">
+    Projetez votre adversaire contre un mur, un arbre ou un autre objet destructible à l'aide d'un M1, d'un uppercut ou d'un slam.
+  </Step>
+  <Step num="2" title="Exécutez le combo mural">
+    Après le coup initial, attendez environ 0,2 seconde, puis effectuez une esquive avant. Votre personnage exécutera alors son combo mural spécifique.
+  </Step>
+  <Step num="3" title="Enchaînez">
+    Selon le personnage, vous pourrez peut-être enchaîner avec des compétences supplémentaires ou des M1 après le combo mural.
+  </Step>
+</Steps>
+
+<Callout type="tip" title="Entraînez-vous aux combos muraux">
+La meilleure façon d'apprendre les combos muraux est dans un serveur privé avec un mannequin d'entraînement. Faites attention au timing de l'esquive avant après avoir touché le mur.
+</Callout>
+
+### Terminologie de combat
+
+Vous familiariser avec les termes courants des jeux de combat vous aidera à comprendre les discussions et stratégies avancées.
+
+| Terme        | Définition                                                                               | Importance dans TSB                                                                                |
+| :---------- | :--------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------- |
+| **Étourdissement** | Un état où un joueur ne peut pas effectuer d'actions après avoir été touché.                             | Crucial pour les extensions de combo ; connaître la durée de l'étourdissement aide à planifier les prochains mouvements. |
+| **I-frames** | Frames d'invincibilité ; périodes pendant lesquelles un personnage ne peut pas être endommagé ou interrompu.         | Essentiel pour les manœuvres défensives, échapper aux combos et exécuter les Ultimes en toute sécurité. |
+| **Armure**   | Un état où un joueur ne peut pas être endommagé ou étourdi par des attaques régulières pendant une action. | Permet à certains mouvements de traverser les attaques adverses, mais peut être brisé par des compétences spécifiques. |
+| **Punition**  | Porter un coup pendant l'état vulnérable d'un adversaire (par exemple, après une attaque manquée).        | Capitaliser sur les erreurs de l'adversaire est un aspect fondamental du jeu compétitif.          |
+
+### L'importance des serveurs privés
+
+Les serveurs privés sont inestimables pour les nouveaux joueurs. Ils offrent un environnement contrôlé pour :
+
+<Checklist
+  id="private-server-benefits"
+  title="Avantages des serveurs privés :"
+  items={[
+    "Pratiquer les commandes de base et les mouvements sans interruption.",
+    "Expérimenter différents arsenaux de mouvements et combos de personnages.",
+    "Affiner les combos muraux et les techniques avancées sur des mannequins d'entraînement.",
+    "Tester les modes ultimes et leurs effets.",
+    "Comprendre les affrontements de personnages et les interactions de compétences."
+  ]}
+/>
+
+<Callout type="info" title="Passe de jeu en accès anticipé">
+Le Passe de jeu en accès anticipé donne accès à de nouveaux personnages et à un serveur privé avec des mannequins d'entraînement, ce qui est fortement recommandé pour une pratique dédiée.
+</Callout>
+
+</Section>
+
+<Section icon={Trophy} title="Jeu compétitif et mentalité">
+The Strongest Battlegrounds est un jeu de combat semi-compétitif où l'habileté, le timing et la stratégie déterminent la victoire. Bien que des cosmétiques soient disponibles, il n'y a pas d'éléments pay-to-win qui donnent des avantages au combat.
+
+### Matchs classés
+
+Une fois que vous vous sentez confiant dans vos capacités, testez vos compétences dans les **Matchs classés**. Le système de matchmaking vise à vous associer à des joueurs de niveau de compétence similaire, garantissant des rencontres équitables et stimulantes. C'est là que vous appliquerez tout ce que vous avez appris et vous adapterez au comportement de l'adversaire réel.
+
+### Amélioration continue
+
+- **Analysez les adversaires** : Faites attention à la façon dont les joueurs expérimentés se déplacent, bloquent et enchaînent.
+- **Apprenez de vos défaites** : Chaque défaite est une occasion d'identifier les faiblesses de votre jeu.
+- **Adaptez votre style de jeu** : Soyez flexible. Si une stratégie ne fonctionne pas, changez-la.
+- **Restez informé** : Le jeu est en constante évolution. Gardez un œil sur les mises à jour pour les changements de personnages et les nouvelles mécaniques.
+
+<Callout type="tip" title="Ressources communautaires">
+Engagez-vous avec la communauté de The Strongest Battlegrounds. De nombreux joueurs expérimentés partagent des astuces, des guides de combos et des analyses de personnages qui peuvent accélérer votre apprentissage.
+</Callout>
+
+</Section>
+
+<FAQ items={[
+  {
+    question: "Que sont les M1 dans The Strongest Battlegrounds ?",
+    answer: "Les M1 désignent vos attaques de base, généralement activées par le bouton gauche de la souris (MouseButton1). Elles sont fondamentales pour démarrer et étendre les combos."
+  },
+  {
+    question: "Comment effectuer un Coup Critique ou un Black Flash ?",
+    answer: "Un Coup Critique est obtenu en bloquant parfaitement le M1 d'un adversaire. Un Black Flash est une frappe encore plus puissante, effectuée en réussissant un blocage parfait après avoir exécuté avec succès un Coup Critique, infligeant des dégâts considérablement augmentés."
+  },
+  {
+    question: "Quelle esquive est la plus importante pour les débutants dans The Strongest Battlegrounds ?",
+    answer: "L'esquive latérale est fortement recommandée pour les débutants en raison de son faible temps de recharge et de sa polyvalence à la fois pour l'évasion et la configuration de combos, sans la fenêtre de vulnérabilité d'une esquive avant."
+  },
+  {
+    question: "Y a-t-il des éléments pay-to-win dans The Strongest Battlegrounds ?",
+    answer: "Non, The Strongest Battlegrounds déclare explicitement que toutes les options de la boutique sont cosmétiques ou améliorent la qualité de vie (comme les serveurs privés pour la pratique) et ne donnent aucun avantage au combat."
+  }
+]} />

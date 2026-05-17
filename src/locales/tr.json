@@ -11,12 +11,12 @@
     }
   },
   "nav": {
-    "guides": "Rehberler",
-    "crafting": "Üretim",
-    "items": "Eşyalar",
-    "biomes": "Biyomlar",
-    "building": "İnşa",
-    "support": "Destek"
+    "guide": "Guide",
+    "characters": "Characters",
+    "combos": "Combos",
+    "updates": "Updates",
+    "cosmetics": "Cosmetics",
+    "emotes": "Emotes"
   },
   "common": {
     "home": "Ana Sayfa",

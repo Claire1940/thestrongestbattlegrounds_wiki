@@ -10,7 +10,14 @@
       "twitterDescription": "The Strongest Battlegrounds Wiki with codes, character tier list, combos, controls, updates, private server tips, and Roblox guides."
     }
   },
-  "nav": {},
+  "nav": {
+    "guide": "Guide",
+    "characters": "Characters",
+    "combos": "Combos",
+    "updates": "Updates",
+    "cosmetics": "Cosmetics",
+    "emotes": "Emotes"
+  },
   "common": {
     "home": "Home",
     "more": "More",
@@ -406,6 +413,128 @@
           "note": "Trending kaiju-themed cape option for 2026 custom looks."
         }
       ]
+    }
+  },
+  "pages": {
+    "guide": {
+      "title": "The Strongest Battlegrounds Guide",
+      "description": "The Strongest Battlegrounds guide hub for controls, movement, defense timing, and beginner match flow.",
+      "metaTitle": "The Strongest Battlegrounds Guide - Controls, Tips and Beginner Flow",
+      "metaDescription": "Learn controls, movement, blocking, and progression basics in The Strongest Battlegrounds with practical beginner guides.",
+      "categoryLabel": "GUIDE",
+      "whatIs": "What is the The Strongest Battlegrounds Guide category?",
+      "whatIsDescription": "This category collects practical walkthroughs for controls, UI settings, spectator mode, and core combat habits used in public matches.",
+      "why": "Why read The Strongest Battlegrounds guides?",
+      "whySteps": {
+        "step1Title": "Learn core controls faster",
+        "step1Description": "Start with shift lock, camera setup, block timing, and movement spacing before learning long combo routes.",
+        "step2Title": "Fix common beginner mistakes",
+        "step2Description": "Use focused checklists to avoid panic dashing, poor evasive timing, and unsafe wake-up decisions.",
+        "step3Title": "Build a stable match routine",
+        "step3Description": "Follow repeatable warm-up and practice patterns that transfer well into ranked-style public lobbies."
+      },
+      "featured": "Featured & Essential",
+      "all": "All Guide Articles"
+    },
+    "characters": {
+      "title": "The Strongest Battlegrounds Characters",
+      "description": "The Strongest Battlegrounds character hub for movesets, role summaries, and pick guidance by playstyle.",
+      "metaTitle": "The Strongest Battlegrounds Characters - Movesets, Roles and Picks",
+      "metaDescription": "Review The Strongest Battlegrounds characters, moveset strengths, and matchup-friendly picks for different playstyles.",
+      "categoryLabel": "CHARACTERS",
+      "whatIs": "What is the The Strongest Battlegrounds Characters category?",
+      "whatIsDescription": "This category covers each playable style, including strengths, pressure patterns, conversion routes, and practical matchup notes.",
+      "why": "Why track The Strongest Battlegrounds characters?",
+      "whySteps": {
+        "step1Title": "Choose the right style",
+        "step1Description": "Compare ease of execution, neutral tools, and conversion consistency to pick a style that fits your level.",
+        "step2Title": "Understand matchup pressure",
+        "step2Description": "Read how each character wins neutral and when to challenge, block, or disengage safely.",
+        "step3Title": "Improve route planning",
+        "step3Description": "Use role-based notes to build safer combo starters and better awakening usage in live matches."
+      },
+      "featured": "Featured & Essential",
+      "all": "All Character Articles"
+    },
+    "combos": {
+      "title": "The Strongest Battlegrounds Combos",
+      "description": "The Strongest Battlegrounds combo library with beginner routes, wall chains, and character-specific confirms.",
+      "metaTitle": "The Strongest Battlegrounds Combos - Wall Routes and Character Chains",
+      "metaDescription": "Practice The Strongest Battlegrounds combo routes with clear starter chains, wall extensions, and character-specific confirms.",
+      "categoryLabel": "COMBOS",
+      "whatIs": "What is the The Strongest Battlegrounds Combos category?",
+      "whatIsDescription": "This category focuses on practical combo routes, extension timing, and punish choices that are usable in real server latency.",
+      "why": "Why practice The Strongest Battlegrounds combos?",
+      "whySteps": {
+        "step1Title": "Convert hits consistently",
+        "step1Description": "Learn stable starters and short confirms that land reliably before attempting advanced routes.",
+        "step2Title": "Improve wall pressure timing",
+        "step2Description": "Use spacing and delay patterns that keep enemies pinned without dropping core sequences.",
+        "step3Title": "Adapt by character",
+        "step3Description": "Apply route variations for Hero, Garou, and other styles so your confirms match your main pick."
+      },
+      "featured": "Featured & Essential",
+      "all": "All Combo Articles"
+    },
+    "updates": {
+      "title": "The Strongest Battlegrounds Updates",
+      "description": "The Strongest Battlegrounds update tracker for patch notes, release timing, and new content summaries.",
+      "metaTitle": "The Strongest Battlegrounds Updates - Patch Notes and Release Tracking",
+      "metaDescription": "Follow The Strongest Battlegrounds updates with patch highlights, release timing, and character/content rollout details.",
+      "categoryLabel": "UPDATES",
+      "whatIs": "What is the The Strongest Battlegrounds Updates category?",
+      "whatIsDescription": "This category tracks patch cycles, major release highlights, and update countdown context for planning your next sessions.",
+      "why": "Why follow The Strongest Battlegrounds updates?",
+      "whySteps": {
+        "step1Title": "Stay ready for balance shifts",
+        "step1Description": "Identify nerfs, buffs, and system tweaks that change matchup flow and combo reliability.",
+        "step2Title": "Track release windows",
+        "step2Description": "Use update timing coverage to plan grinding sessions and content recording windows.",
+        "step3Title": "Catch new feature rollout",
+        "step3Description": "Review major additions quickly so you can test characters, mechanics, or cosmetics as soon as they land."
+      },
+      "featured": "Featured & Essential",
+      "all": "All Update Articles"
+    },
+    "cosmetics": {
+      "title": "The Strongest Battlegrounds Cosmetics",
+      "description": "The Strongest Battlegrounds cosmetics hub for cape IDs, icon assets, and profile style customization.",
+      "metaTitle": "The Strongest Battlegrounds Cosmetics - Cape IDs, Icons and Style",
+      "metaDescription": "Browse The Strongest Battlegrounds cosmetics including cape IDs, icon resources, and profile customization references.",
+      "categoryLabel": "COSMETICS",
+      "whatIs": "What is the The Strongest Battlegrounds Cosmetics category?",
+      "whatIsDescription": "This category includes appearance customization resources such as cape IDs, icon packs, and visual style references.",
+      "why": "Why use The Strongest Battlegrounds cosmetics guides?",
+      "whySteps": {
+        "step1Title": "Customize your profile",
+        "step1Description": "Find reliable IDs and visual references to match your preferred style and clan identity.",
+        "step2Title": "Save setup time",
+        "step2Description": "Use organized lists to avoid repeated in-game testing when changing cosmetic loadouts.",
+        "step3Title": "Track visual trends",
+        "step3Description": "Compare popular looks and seasonal style shifts to refresh your profile efficiently."
+      },
+      "featured": "Featured & Essential",
+      "all": "All Cosmetic Articles"
+    },
+    "emotes": {
+      "title": "The Strongest Battlegrounds Emotes",
+      "description": "The Strongest Battlegrounds emote hub for free emotes, limited emotes, and unlock behavior guides.",
+      "metaTitle": "The Strongest Battlegrounds Emotes - Free, Limited and Unlock Guides",
+      "metaDescription": "Discover The Strongest Battlegrounds emotes with free unlock paths, limited availability notes, and usage tips.",
+      "categoryLabel": "EMOTES",
+      "whatIs": "What is the The Strongest Battlegrounds Emotes category?",
+      "whatIsDescription": "This category documents emote types, unlock methods, limited availability details, and practical usage notes.",
+      "why": "Why browse The Strongest Battlegrounds emotes?",
+      "whySteps": {
+        "step1Title": "Unlock useful emotes faster",
+        "step1Description": "Follow direct unlock notes for free and event emotes without wasting trial-and-error time.",
+        "step2Title": "Track limited availability",
+        "step2Description": "Check limited emote status and event windows so you can prioritize time-sensitive unlocks.",
+        "step3Title": "Improve social presence",
+        "step3Description": "Use emote sets for clips, team sessions, and lobby interactions that match your playstyle."
+      },
+      "featured": "Featured & Essential",
+      "all": "All Emote Articles"
     }
   }
 }
