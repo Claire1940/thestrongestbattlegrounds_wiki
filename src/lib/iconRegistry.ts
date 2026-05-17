@@ -13,7 +13,13 @@ export const iconRegistry: Record<string, LucideIcon> = {
   // 工具和资源图标
   Download: LucideIcons.Download,
   BookOpen: LucideIcons.BookOpen,
+  Swords: LucideIcons.Swords,
   Users: LucideIcons.Users,
+  Trophy: LucideIcons.Trophy,
+  Zap: LucideIcons.Zap,
+  Clock3: LucideIcons.Clock3,
+  Server: LucideIcons.Server,
+  Palette: LucideIcons.Palette,
   ClipboardCheck: LucideIcons.ClipboardCheck,
   Keyboard: LucideIcons.Keyboard,
   Shield: LucideIcons.Shield,
