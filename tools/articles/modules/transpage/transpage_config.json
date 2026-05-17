@@ -3,21 +3,23 @@
   "api_base_url": "https://api.apifast.tech/v1",
   "model": "gemini-2.5-flash",
   "group": "default",
-
   "temperature": 0.1,
   "max_tokens": 32768,
   "timeout": 120,
   "retry_attempts": 3,
   "retry_delay": 5,
-
-  "languages": ["ru", "pt", "de", "es", "ja", "ko", "fr"],
+  "languages": [
+    "pt",
+    "es",
+    "id"
+  ],
   "default_language": "en",
   "output_dir": "src/locales/",
-
   "use_value_extraction": false,
-
   "protected_terms": {
-    "game_names": ["Lucid Blocks"],
+    "game_names": [
+      "The Strongest Battlegrounds"
+    ],
     "character_names": [],
     "technical_terms": [
       "Apotheosis",
@@ -34,25 +36,15 @@
       "Surreal"
     ]
   },
-
   "game_names": {
-    "en": "Lucid Blocks",
-    "ru": "Lucid Blocks",
-    "pt": "Lucid Blocks",
-    "de": "Lucid Blocks",
-    "es": "Lucid Blocks",
-    "ja": "Lucid Blocks",
-    "ko": "Lucid Blocks",
-    "fr": "Lucid Blocks"
+    "en": "The Strongest Battlegrounds",
+    "pt": "The Strongest Battlegrounds",
+    "es": "The Strongest Battlegrounds",
+    "id": "The Strongest Battlegrounds"
   },
-
   "lang_names": {
-    "ru": "Russian",
     "pt": "Portuguese (Brazil)",
-    "de": "German",
     "es": "Spanish (Latin America)",
-    "ja": "Japanese",
-    "ko": "Korean",
-    "fr": "French"
+    "id": "Indonesian"
   }
 }
