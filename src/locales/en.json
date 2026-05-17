@@ -245,120 +245,165 @@
     },
     "combosAndTechniques": {
       "title": "The Strongest Battlegrounds Combos and Techniques",
-      "intro": "Use routes that you can execute in live pressure. Practical consistency outperforms max-length lab routes.",
+      "intro": "Learn reliable The Strongest Battlegrounds combo routes first, then add wall combo timing, uppercut dash extensions, delayed M1 pressure, and character-specific confirms.",
       "steps": [
         {
-          "name": "Beginner Confirm Route",
-          "description": "M1 chain into knockdown follow-up, then reset neutral with dash discipline."
+          "name": "Wall Combo Starter",
+          "description": "Push enemies near a wall, then use 4th M1, downslam, or uppercut and forward dash after a short delay to trigger wall combo pressure."
         },
         {
-          "name": "Wall Carry Conversion",
-          "description": "Route toward a wall first, then spend the extender only after you secure angle."
+          "name": "The Strongest Hero Simple Route",
+          "description": "Use 3x M1 into M1 downslam, then finish with Tableflip for a stable beginner punish route."
         },
         {
-          "name": "Awakening Burst Route",
-          "description": "Open with a fast confirm and stack burst tools while the opponent is locked in recovery."
+          "name": "Hero Hunter Core Chain",
+          "description": "Link Flowing Water into Lethal Whirlwind Stream and finish with Hunter's Grasp before adding harder uppercut extensions."
         },
         {
-          "name": "Evasive Bait Technique",
-          "description": "Delay one hit in the sequence to force evasive early, then punish the escape attempt."
+          "name": "Advanced Tech Practice Block",
+          "description": "Practice Uppercut Dash, delayed M1 timing, M1 Shove, backdash cancel, wall extend, and micro dash to improve live-match consistency."
         }
       ]
     },
     "updatesAndNewCharacters": {
       "title": "The Strongest Battlegrounds Updates and New Characters",
-      "intro": "Track meaningful patch changes by focusing on new movesets, balance shifts, and system-level combat updates.",
+      "intro": "Track major The Strongest Battlegrounds patches with a focus on new characters, ranked systems, move additions, and creator feature changes.",
       "items": [
         {
-          "date": "2026-05-16",
-          "title": "KJ-focused balance pass",
-          "description": "Adjusted pressure timing and recovery windows to tighten matchup pacing."
+          "date": "May 17, 2026",
+          "title": "Tech Prodigy Is Free and Expanded",
+          "description": "Tech Prodigy left early access and gained move additions including Conquest, Missiles, and Photon Dive."
         },
         {
-          "date": "2026-05-02",
-          "title": "Public server combat cleanup",
-          "description": "Hit detection and movement behavior tuning improved consistency in active lobbies."
+          "date": "May 17, 2026",
+          "title": "Undying Hero Added",
+          "description": "Undying Hero joined the roster with Grave Maker, Point Blank, Blast Breaker, and Crossfire pressure tools."
         },
         {
-          "date": "2026-04-21",
-          "title": "Moveset tuning for core roster",
-          "description": "Targeted updates to improve confirm consistency and punish opportunities across key characters."
+          "date": "May 17, 2026",
+          "title": "Character Creator V1 Released",
+          "description": "Character Creator V1 introduced custom move-building flows with a timeline editor and expanded block options."
+        },
+        {
+          "date": "May 17, 2026",
+          "title": "Ranked and ELO System Update",
+          "description": "A new 3v3 ELO system and global matchmaking UI improved ranked visibility and competitive tracking."
+        },
+        {
+          "date": "July 14, 2025",
+          "title": "Monster Form Limit Breaker Patch",
+          "description": "The 2025 update expanded Hero Hunter Monster Form and added Tech Prodigy ability updates."
+        },
+        {
+          "date": "May 24, 2025",
+          "title": "Hero Hunter Monster Version Debut",
+          "description": "This patch added Hero Hunter Monster Version and introduced ultimate-mode updates for Tech Prodigy."
         }
       ]
     },
     "privateServerCommands": {
       "title": "The Strongest Battlegrounds Private Server Commands",
-      "intro": "Use private servers to run repeatable training sets, test routes, and host controlled matchup sessions.",
+      "intro": "Use The Strongest Battlegrounds Private Server+ commands to manage sessions, run combo labs, build custom maps, and control private match flow.",
       "commands": [
         {
-          "command": "/day",
-          "type": "Environment",
-          "effect": "Switches to clear daylight for easier combo timing reads."
+          "command": "/ban (user)",
+          "type": "Moderation",
+          "effect": "Bans a selected player from rejoining your private server."
         },
         {
-          "command": "/night",
-          "type": "Environment",
-          "effect": "Switches to night mode for visual testing and event-style sessions."
+          "command": "/kick (user)",
+          "type": "Moderation",
+          "effect": "Removes a selected player from the current session without adding a ban."
         },
         {
-          "command": "/setspawn",
-          "type": "Session Setup",
-          "effect": "Sets a custom respawn point for repeat drill loops."
-        },
-        {
-          "command": "/reset",
+          "command": "/godmode (user)",
           "type": "Training Utility",
-          "effect": "Quickly resets state between route attempts."
+          "effect": "Makes the selected player ignore normal damage for controlled testing."
+        },
+        {
+          "command": "/fly (user)",
+          "type": "Movement Utility",
+          "effect": "Enables flight for the selected player and helps with map setup or testing."
+        },
+        {
+          "command": "/announce (text)",
+          "type": "Session Control",
+          "effect": "Posts a server-wide message for tournaments, events, and custom lobby timing."
+        },
+        {
+          "command": "/builder (user)",
+          "type": "Build Mode",
+          "effect": "Grants a selected player access to build mode tools in private servers."
+        },
+        {
+          "command": "No Cooldown",
+          "type": "PS+ Menu Toggle",
+          "effect": "Removes move cooldowns for rapid combo repetition and interaction testing."
+        },
+        {
+          "command": "Give Awakening",
+          "type": "PS+ Menu Action",
+          "effect": "Fills awakening meter instantly for ultimate route practice."
         }
       ],
       "faqs": [
         {
-          "question": "How do I start a The Strongest Battlegrounds private server training block?",
-          "answer": "Create the server, invite your practice group, set spawn and environment, then run fixed matchup rounds with short reset intervals."
+          "question": "How do I unlock The Strongest Battlegrounds private server commands?",
+          "answer": "Buy The Strongest Battlegrounds Private Server+ pass, then run commands inside your private server session."
         },
         {
-          "question": "Which The Strongest Battlegrounds private server command helps combo practice most?",
-          "answer": "Use spawn and reset controls first so each attempt starts from the same position and pacing."
+          "question": "Which The Strongest Battlegrounds private server commands are best for combo practice?",
+          "answer": "Use The Strongest Battlegrounds no-cooldown, give-awakening, and respawn-style controls to repeat routes quickly under stable conditions."
         },
         {
-          "question": "Can The Strongest Battlegrounds private server command settings improve 1v1 prep?",
-          "answer": "Yes. Stable conditions let you isolate spacing, punish windows, and evasive timing before public matches."
+          "question": "Can The Strongest Battlegrounds private server settings improve 1v1 prep?",
+          "answer": "Yes. The Strongest Battlegrounds private sessions let you isolate spacing, punish windows, and evasive timing before public ranked matches."
         }
       ]
     },
     "capeIdCodes": {
       "title": "The Strongest Battlegrounds Cape ID Codes",
-      "intro": "Apply cape decal IDs to personalize your profile style in private sessions and showcase lobbies.",
+      "intro": "Use The Strongest Battlegrounds cape image IDs to apply anime, meme, logo, and trending styles through VIP cape customization.",
       "items": [
         {
-          "code": "10212345678",
-          "name": "Crimson Slash Cape",
-          "note": "Clean red-black style that fits aggressive combat themes."
+          "code": "17314092944",
+          "name": "Anime Girl",
+          "note": "Anime-themed cape design used with VIP customization."
         },
         {
-          "code": "11323456789",
-          "name": "Neon Storm Cape",
-          "note": "Bright contrast design for high-visibility showcase clips."
+          "code": "9242918232",
+          "name": "Gojo",
+          "note": "Popular Jujutsu Kaisen-inspired cape style."
         },
         {
-          "code": "12434567890",
-          "name": "Shadow Grid Cape",
-          "note": "Minimal dark style for low-noise visual layouts."
+          "code": "18923702066",
+          "name": "Goku",
+          "note": "Classic DBZ cape image choice for anime mains."
         },
         {
-          "code": "13545678901",
-          "name": "Arena Flame Cape",
-          "note": "Warm accent style that pairs with crimson UI themes."
+          "code": "18336221441",
+          "name": "Tatsumaki",
+          "note": "Trending 2026 cape image with recognizable silhouette."
         },
         {
-          "code": "14656789012",
-          "name": "Steel Pulse Cape",
-          "note": "Neutral metallic look for mixed moveset mains."
+          "code": "18848582136",
+          "name": "Nah, I Would Solo",
+          "note": "Meme text banner style commonly used in showcase servers."
         },
         {
-          "code": "15767890123",
-          "name": "Impact Mark Cape",
-          "note": "High-contrast emblem style for montage-focused players."
+          "code": "15424746407",
+          "name": "Bacon Army",
+          "note": "Logo-style cape image suited for team identity themes."
+        },
+        {
+          "code": "8382614688",
+          "name": "The Rock",
+          "note": "High-recognition meme cape for social and casual lobbies."
+        },
+        {
+          "code": "9521205848",
+          "name": "Shin Godzilla",
+          "note": "Trending kaiju-themed cape option for 2026 custom looks."
         }
       ]
     }
