@@ -1,10 +1,540 @@
 {
+  "seo": {
+    "home": {
+      "title": "Wiki The Strongest Battlegrounds - Kode, Tier List & Kombo",
+      "description": "Wiki The Strongest Battlegrounds dengan kode, tier list karakter, kombo, kontrol, pembaruan, tips server privat, dan panduan Roblox.",
+      "keywords": "The Strongest Battlegrounds, Roblox, TSB, kode, tier list, kombo, karakter, kontrol",
+      "ogTitle": "Wiki The Strongest Battlegrounds - Kode, Tier List & Kombo",
+      "ogDescription": "Wiki The Strongest Battlegrounds dengan kode, tier list karakter, kombo, kontrol, pembaruan, tips server privat, dan panduan Roblox.",
+      "twitterTitle": "Wiki The Strongest Battlegrounds - Kode, Tier List & Kombo",
+      "twitterDescription": "Wiki The Strongest Battlegrounds dengan kode, tier list karakter, kombo, kontrol, pembaruan, tips server privat, dan panduan Roblox."
+    }
+  },
   "nav": {
-    "guide": "Guide",
-    "characters": "Characters",
-    "combos": "Combos",
-    "updates": "Updates",
-    "cosmetics": "Cosmetics",
-    "emotes": "Emotes"
+    "guide": "Panduan",
+    "characters": "Karakter",
+    "combos": "Kombo",
+    "updates": "Pembaruan",
+    "cosmetics": "Kosmetik",
+    "emotes": "Emote"
+  },
+  "common": {
+    "home": "Beranda",
+    "more": "Lainnya",
+    "playNow": "Mainkan di Roblox",
+    "switchLanguage": "Ganti Bahasa",
+    "switchTheme": "Ganti Tema",
+    "lightMode": "Mode Terang",
+    "darkMode": "Mode Gelap",
+    "notFound": "Halaman Tidak Ditemukan",
+    "notFoundDescription": "Halaman yang Anda cari tidak ada.",
+    "backToHome": "Kembali ke Beranda",
+    "relatedArticles": "Artikel Terkait",
+    "readMore": "Baca Selengkapnya",
+    "articlesComingSoon": "Artikel segera hadir"
+  },
+  "hero": {
+    "badge": "Medan Tempur PvP Anime Cepat",
+    "title": "Wiki The Strongest Battlegrounds",
+    "description": "Kuasai The Strongest Battlegrounds dengan kode, alur pemula, karakter, tier list, kombo, pembaruan, pengaturan server privat, dan ID kosmetik.",
+    "getFreeCodesCTA": "Dapatkan Kode Gratis",
+    "playOnRobloxCTA": "Mainkan di Roblox",
+    "stats": {
+      "stat1": {
+        "value": "17.9B+",
+        "label": "Total Kunjungan"
+      },
+      "stat2": {
+        "value": "133K+",
+        "label": "Pemain Online"
+      },
+      "stat3": {
+        "value": "6.9M+",
+        "label": "Favorit"
+      },
+      "stat4": {
+        "value": "16 Mei 2026",
+        "label": "Pembaruan Terakhir"
+      }
+    }
+  },
+  "gameFeature": {
+    "title": "Gameplay The Strongest Battlegrounds",
+    "description": "Saksikan gerakan tempur langsung, tekanan kebangkitan, dan rute kombo berbasis karakter di arena PvP anime Roblox ini."
+  },
+  "tools": {
+    "title": "The Strongest Battlegrounds",
+    "titleHighlight": "Modul Beranda",
+    "subtitle": "Lompat ke modul inti mana pun dan gulir langsung ke bagian yang sesuai.",
+    "cards": [
+      {
+        "icon": "BookOpen",
+        "title": "Kode The Strongest Battlegrounds",
+        "description": "ID suara pembunuhan aktif dan catatan penggunaan cepat.",
+        "sectionId": "codes-and-kill-sound-ids"
+      },
+      {
+        "icon": "Swords",
+        "title": "Panduan Pemula The Strongest Battlegrounds",
+        "description": "Alur bertahan hidup inti untuk server publik pertama.",
+        "sectionId": "beginner-guide"
+      },
+      {
+        "icon": "Users",
+        "title": "Karakter The Strongest Battlegrounds",
+        "description": "Set gerakan utama dan apa yang paling baik dilakukan setiap gaya.",
+        "sectionId": "characters-and-movesets"
+      },
+      {
+        "icon": "Trophy",
+        "title": "Daftar Tingkat The Strongest Battlegrounds",
+        "description": "Penempatan tingkat saat ini dan alasan singkat.",
+        "sectionId": "tier-list"
+      },
+      {
+        "icon": "Zap",
+        "title": "Kombo The Strongest Battlegrounds",
+        "description": "Rute praktis dari pemula hingga mahir.",
+        "sectionId": "combos-and-techniques"
+      },
+      {
+        "icon": "Clock3",
+        "title": "Pembaruan The Strongest Battlegrounds",
+        "description": "Sorotan patch terbaru dan penurunan karakter.",
+        "sectionId": "updates-and-new-characters"
+      },
+      {
+        "icon": "Server",
+        "title": "Server Pribadi The Strongest Battlegrounds",
+        "description": "Penggunaan perintah, pengaturan, dan kasus penggunaan pelatihan.",
+        "sectionId": "private-server-commands"
+      },
+      {
+        "icon": "Palette",
+        "title": "ID Jubah The Strongest Battlegrounds",
+        "description": "ID stiker kosmetik populer yang dikelompokkan berdasarkan gaya.",
+        "sectionId": "cape-id-codes"
+      }
+    ]
+  },
+  "modules": {
+    "codesAndKillSoundIds": {
+      "title": "The Strongest Battlegrounds Codes and Kill Sound IDs",
+      "intro": "Gunakan ID suara kill aktif ini di The Strongest Battlegrounds untuk menyesuaikan efek suara KO. Tempelkan hanya ID numerik di kolom kustomisasi dalam game.",
+      "items": [
+        {
+          "code": "140736832198483",
+          "status": "Aktif",
+          "lastChecked": "2026-05-17",
+          "reward": "Roll 10M+ Aura",
+          "note": "Gunakan di Pengaturan > Sesuaikan Suara Kill."
+        },
+        {
+          "code": "140724395390395",
+          "status": "Aktif",
+          "lastChecked": "2026-05-17",
+          "reward": "Fallout Terminal Keyboard",
+          "note": "Tempelkan hanya angka, lalu bergabung kembali jika suara tidak berlaku."
+        },
+        {
+          "code": "139836635302855",
+          "status": "Aktif",
+          "lastChecked": "2026-05-17",
+          "reward": "Screaming Chicken Meme",
+          "note": "Berfungsi sebagai pengganti suara KO setelah dibuka."
+        },
+        {
+          "code": "140614080737083",
+          "status": "Aktif",
+          "lastChecked": "2026-05-17",
+          "reward": "Attack Swing",
+          "note": "Bagus untuk audio umpan balik yang singkat dan bersih."
+        },
+        {
+          "code": "8445372908",
+          "status": "Aktif",
+          "lastChecked": "2026-05-17",
+          "reward": "Emotional Damage",
+          "note": "Pilihan meme populer untuk sesi server pribadi."
+        },
+        {
+          "code": "7361085557",
+          "status": "Aktif",
+          "lastChecked": "2026-05-17",
+          "reward": "Boom Headshot",
+          "note": "Gaya klip klasik untuk putaran sorotan."
+        }
+      ]
+    },
+    "beginnerGuide": {
+      "title": "Panduan Pemula The Strongest Battlegrounds",
+      "intro": "Pelajari gerakan, pertahanan, dan tekanan sederhana sebelum Anda mencoba rute kombo panjang di lobi publik.",
+      "steps": [
+        {
+          "title": "Mulai dengan gerakan dan waktu blok",
+          "description": "Latih tekanan lari ke depan, penghindaran lari ke samping, dan blok menghadap depan sebelum mengejar kerusakan."
+        },
+        {
+          "title": "Bangun kerusakan dengan rute M1 pendek",
+          "description": "Gunakan rangkaian 3 hingga 4 pukulan yang andal dan atur ulang jarak daripada terlalu memaksakan diri ke jendela hukuman."
+        },
+        {
+          "title": "Simpan evasive untuk rantai knockdown berisiko tinggi",
+          "description": "Jangan gunakan evasive pada setiap jatuh. Tahan untuk tekanan dinding atau penyelesaian kebangkitan jarak dekat."
+        },
+        {
+          "title": "Bangkitkan saat Anda sudah dalam jangkauan",
+          "description": "Picukan kebangkitan pada jarak di mana Anda dapat memaksakan interaksi langsung dan mengubah nilai meteran."
+        }
+      ]
+    },
+    "charactersAndMovesets": {
+      "title": "Karakter dan Moveset The Strongest Battlegrounds",
+      "intro": "Setiap moveset mengubah gaya tekanan, panjang kombo, dan kontrol netral. Pilih berdasarkan tingkat kenyamanan Anda saat ini.",
+      "items": [
+        {
+          "name": "The Strongest Hero",
+          "role": "Pilihan pemula serba bisa",
+          "description": "Konfirmasi sederhana dan opsi penyelesaian langsung menjadikannya rute pembuka termudah."
+        },
+        {
+          "name": "Hero Hunter",
+          "role": "Spesialis serangan balik dan hukuman",
+          "description": "Alat konversi yang kuat saat Anda membaca dasbor dan memaksa respons meleset."
+        },
+        {
+          "name": "Destructive Cyborg",
+          "role": "Tekanan jarak menengah",
+          "description": "Kontrol ruang yang andal dan tekanan garis lurus dalam pertarungan server publik."
+        },
+        {
+          "name": "Deadly Ninja",
+          "role": "Prajurit bergerak cepat",
+          "description": "Unggul dalam entri cepat, tekanan samping, dan lingkaran pelepasan cepat."
+        },
+        {
+          "name": "Brutal Demon",
+          "role": "Tekanan penghancur pertahanan",
+          "description": "Sangat bagus untuk memaksa kesalahan dengan jendela ancaman jarak dekat yang menindas."
+        },
+        {
+          "name": "Blade Master",
+          "role": "Rute kombo presisi",
+          "description": "Hadiah tinggi ketika penempatan dan waktu konsisten di seluruh rute dinding."
+        }
+      ]
+    },
+    "tierList": {
+      "title": "Daftar Tingkat The Strongest Battlegrounds",
+      "intro": "Daftar ini memprioritaskan stabilitas server publik, konsistensi konfirmasi, dan nilai tekanan dalam pertandingan umum.",
+      "tiers": [
+        {
+          "tier": "S Tier",
+          "characters": "Hero Hunter, Blade Master",
+          "reason": "Perpaduan terbaik antara kontrol netral dan jendela konversi yang andal."
+        },
+        {
+          "tier": "A Tier",
+          "characters": "The Strongest Hero, Destructive Cyborg",
+          "reason": "Pilihan yang sangat stabil dengan tekanan kuat dan konfirmasi yang lebih mudah."
+        },
+        {
+          "tier": "B Tier",
+          "characters": "Deadly Ninja, Brutal Demon",
+          "reason": "Kuat dengan pengetahuan pertandingan, tetapi kurang konsisten untuk pemain baru."
+        },
+        {
+          "tier": "C Tier",
+          "characters": "Pilihan khusus atau terbatas",
+          "reason": "Berguna dalam situasi tertentu tetapi konsistensi keseluruhan lebih rendah."
+        }
+      ]
+    },
+    "combosAndTechniques": {
+      "title": "The Strongest Battlegrounds Kombo dan Teknik",
+      "intro": "Pelajari rute kombo The Strongest Battlegrounds yang andal terlebih dahulu, lalu tambahkan timing kombo dinding, ekstensi dash uppercut, tekanan M1 yang tertunda, dan konfirmasi khusus karakter.",
+      "steps": [
+        {
+          "name": "Pembuka Kombo Dinding",
+          "description": "Dorong musuh ke dekat dinding, lalu gunakan M1 ke-4, downslam, atau uppercut dan dash ke depan setelah jeda singkat untuk memicu tekanan kombo dinding."
+        },
+        {
+          "name": "Rute Sederhana The Strongest Hero",
+          "description": "Gunakan 3x M1 ke dalam M1 downslam, lalu selesaikan dengan Tableflip untuk rute hukuman pemula yang stabil."
+        },
+        {
+          "name": "Rantai Inti Hero Hunter",
+          "description": "Hubungkan Flowing Water ke dalam Lethal Whirlwind Stream dan selesaikan dengan Hunter's Grasp sebelum menambahkan ekstensi uppercut yang lebih sulit."
+        },
+        {
+          "name": "Blok Latihan Teknik Lanjutan",
+          "description": "Latih Uppercut Dash, timing M1 yang tertunda, M1 Shove, pembatalan backdash, perpanjangan dinding, dan micro dash untuk meningkatkan konsistensi pertandingan langsung."
+        }
+      ]
+    },
+    "updatesAndNewCharacters": {
+      "title": "Pembaruan dan Karakter Baru The Strongest Battlegrounds",
+      "intro": "Pantau patch utama The Strongest Battlegrounds dengan fokus pada karakter baru, sistem peringkat, penambahan jurus, dan perubahan fitur kreator.",
+      "items": [
+        {
+          "date": "May 17, 2026",
+          "title": "Tech Prodigy Gratis dan Diperluas",
+          "description": "Tech Prodigy meninggalkan akses awal dan mendapatkan penambahan jurus termasuk Conquest, Missiles, dan Photon Dive."
+        },
+        {
+          "date": "May 17, 2026",
+          "title": "Undying Hero Ditambahkan",
+          "description": "Undying Hero bergabung dalam daftar dengan alat tekanan Grave Maker, Point Blank, Blast Breaker, dan Crossfire."
+        },
+        {
+          "date": "May 17, 2026",
+          "title": "Character Creator V1 Dirilis",
+          "description": "Character Creator V1 memperkenalkan alur pembuatan jurus kustom dengan editor timeline dan opsi blok yang diperluas."
+        },
+        {
+          "date": "May 17, 2026",
+          "title": "Pembaruan Sistem Peringkat dan ELO",
+          "description": "Sistem ELO 3v3 baru dan UI matchmaking global meningkatkan visibilitas peringkat dan pelacakan kompetitif."
+        },
+        {
+          "date": "July 14, 2025",
+          "title": "Patch Limit Breaker Bentuk Monster",
+          "description": "Pembaruan 2025 memperluas Hero Hunter Monster Form dan menambahkan pembaruan kemampuan Tech Prodigy."
+        },
+        {
+          "date": "May 24, 2025",
+          "title": "Debut Hero Hunter Versi Monster",
+          "description": "Patch ini menambahkan Hero Hunter Versi Monster dan memperkenalkan pembaruan mode ultimate untuk Tech Prodigy."
+        }
+      ]
+    },
+    "privateServerCommands": {
+      "title": "Perintah Server Privat The Strongest Battlegrounds",
+      "intro": "Gunakan perintah The Strongest Battlegrounds Private Server+ untuk mengelola sesi, menjalankan lab kombo, membangun peta kustom, dan mengontrol alur pertandingan privat.",
+      "commands": [
+        {
+          "command": "/ban (user)",
+          "type": "Moderasi",
+          "effect": "Melarang pemain yang dipilih untuk bergabung kembali ke server privat Anda."
+        },
+        {
+          "command": "/kick (user)",
+          "type": "Moderasi",
+          "effect": "Mengeluarkan pemain yang dipilih dari sesi saat ini tanpa menambahkan larangan."
+        },
+        {
+          "command": "/godmode (user)",
+          "type": "Utilitas Pelatihan",
+          "effect": "Membuat pemain yang dipilih mengabaikan kerusakan normal untuk pengujian terkontrol."
+        },
+        {
+          "command": "/fly (user)",
+          "type": "Utilitas Pergerakan",
+          "effect": "Mengaktifkan kemampuan terbang untuk pemain yang dipilih dan membantu pengaturan peta atau pengujian."
+        },
+        {
+          "command": "/announce (text)",
+          "type": "Kontrol Sesi",
+          "effect": "Mengirimkan pesan ke seluruh server untuk turnamen, acara, dan pengaturan waktu lobi kustom."
+        },
+        {
+          "command": "/builder (user)",
+          "type": "Mode Bangun",
+          "effect": "Memberikan akses alat mode bangun kepada pemain yang dipilih di server privat."
+        },
+        {
+          "command": "No Cooldown",
+          "type": "Toggle Menu PS+",
+          "effect": "Menghapus cooldown jurus untuk pengulangan kombo cepat dan pengujian interaksi."
+        },
+        {
+          "command": "Give Awakening",
+          "type": "Tindakan Menu PS+",
+          "effect": "Mengisi meteran awakening secara instan untuk latihan rute ultimate."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Bagaimana cara membuka perintah server privat The Strongest Battlegrounds?",
+          "answer": "Beli pass The Strongest Battlegrounds Private Server+, lalu jalankan perintah di dalam sesi server privat Anda."
+        },
+        {
+          "question": "Perintah server privat The Strongest Battlegrounds mana yang terbaik untuk latihan kombo?",
+          "answer": "Gunakan kontrol tanpa-cooldown, berikan-awakening, dan gaya-respawn The Strongest Battlegrounds untuk mengulang rute dengan cepat dalam kondisi stabil."
+        },
+        {
+          "question": "Apakah pengaturan server privat The Strongest Battlegrounds dapat meningkatkan persiapan 1v1?",
+          "answer": "Ya. Sesi privat The Strongest Battlegrounds memungkinkan Anda mengisolasi jarak, jendela hukuman, dan timing menghindar sebelum pertandingan peringkat publik."
+        }
+      ]
+    },
+    "capeIdCodes": {
+      "title": "Kode ID Jubah The Strongest Battlegrounds",
+      "intro": "Gunakan ID gambar jubah The Strongest Battlegrounds untuk menerapkan gaya anime, meme, logo, dan tren melalui kustomisasi jubah VIP.",
+      "items": [
+        {
+          "code": "17314092944",
+          "name": "Gadis Anime",
+          "note": "Desain jubah bertema anime yang digunakan dengan kustomisasi VIP."
+        },
+        {
+          "code": "9242918232",
+          "name": "Gojo",
+          "note": "Gaya jubah populer yang terinspirasi Jujutsu Kaisen."
+        },
+        {
+          "code": "18923702066",
+          "name": "Goku",
+          "note": "Pilihan gambar jubah DBZ klasik untuk penggemar anime."
+        },
+        {
+          "code": "18336221441",
+          "name": "Tatsumaki",
+          "note": "Gambar jubah tren 2026 dengan siluet yang mudah dikenali."
+        },
+        {
+          "code": "18848582136",
+          "name": "Nah, Aku Akan Solo",
+          "note": "Gaya spanduk teks meme yang umum digunakan di server pameran."
+        },
+        {
+          "code": "15424746407",
+          "name": "Pasukan Bacon",
+          "note": "Gambar jubah bergaya logo yang cocok untuk tema identitas tim."
+        },
+        {
+          "code": "8382614688",
+          "name": "The Rock",
+          "note": "Jubah meme dengan pengenalan tinggi untuk lobi sosial dan kasual."
+        },
+        {
+          "code": "9521205848",
+          "name": "Shin Godzilla",
+          "note": "Opsi jubah bertema kaiju yang sedang tren untuk tampilan kustom 2026."
+        }
+      ]
+    }
+  },
+  "pages": {
+    "guide": {
+      "title": "Panduan The Strongest Battlegrounds",
+      "description": "Pusat panduan The Strongest Battlegrounds untuk kontrol, gerakan, waktu pertahanan, dan alur pertandingan pemula.",
+      "metaTitle": "Panduan The Strongest Battlegrounds - Kontrol, Tips, dan Alur Pemula",
+      "metaDescription": "Pelajari kontrol, gerakan, memblokir, dan dasar-dasar progresi di The Strongest Battlegrounds dengan panduan praktis untuk pemula.",
+      "categoryLabel": "PANDUAN",
+      "whatIs": "Apa itu kategori Panduan The Strongest Battlegrounds?",
+      "whatIsDescription": "Kategori ini mengumpulkan panduan praktis untuk kontrol, pengaturan UI, mode penonton, dan kebiasaan tempur inti yang digunakan dalam pertandingan publik.",
+      "why": "Mengapa membaca panduan The Strongest Battlegrounds?",
+      "whySteps": {
+        "step1Title": "Pelajari kontrol inti lebih cepat",
+        "step1Description": "Mulai dengan kunci geser, pengaturan kamera, waktu blok, dan jarak gerakan sebelum mempelajari rute kombo panjang.",
+        "step2Title": "Perbaiki kesalahan umum pemula",
+        "step2Description": "Gunakan daftar periksa terfokus untuk menghindari dasbor panik, waktu menghindar yang buruk, dan keputusan bangun yang tidak aman.",
+        "step3Title": "Bangun rutinitas pertandingan yang stabil",
+        "step3Description": "Ikuti pola pemanasan dan latihan yang dapat diulang yang cocok untuk lobi publik bergaya peringkat."
+      },
+      "featured": "Unggulan & Penting",
+      "all": "Semua Artikel Panduan"
+    },
+    "characters": {
+      "title": "Karakter The Strongest Battlegrounds",
+      "description": "Pusat karakter The Strongest Battlegrounds untuk moveset, ringkasan peran, dan panduan pilihan berdasarkan gaya bermain.",
+      "metaTitle": "Karakter The Strongest Battlegrounds - Moveset, Peran, dan Pilihan",
+      "metaDescription": "Tinjau karakter The Strongest Battlegrounds, kekuatan moveset, dan pilihan yang ramah pertandingan untuk gaya bermain yang berbeda.",
+      "categoryLabel": "KARAKTER",
+      "whatIs": "Apa itu kategori Karakter The Strongest Battlegrounds?",
+      "whatIsDescription": "Kategori ini mencakup setiap gaya yang dapat dimainkan, termasuk kekuatan, pola tekanan, rute konversi, dan catatan pertandingan praktis.",
+      "why": "Mengapa melacak karakter The Strongest Battlegrounds?",
+      "whySteps": {
+        "step1Title": "Pilih gaya yang tepat",
+        "step1Description": "Bandingkan kemudahan eksekusi, alat netral, dan konsistensi konversi untuk memilih gaya yang sesuai dengan level Anda.",
+        "step2Title": "Pahami tekanan pertandingan",
+        "step2Description": "Baca bagaimana setiap karakter memenangkan netral dan kapan harus menantang, memblokir, atau melepaskan diri dengan aman.",
+        "step3Title": "Tingkatkan perencanaan rute",
+        "step3Description": "Gunakan catatan berbasis peran untuk membangun starter kombo yang lebih aman dan penggunaan awakening yang lebih baik dalam pertandingan langsung."
+      },
+      "featured": "Unggulan & Penting",
+      "all": "Semua Artikel Karakter"
+    },
+    "combos": {
+      "title": "Kombo The Strongest Battlegrounds",
+      "description": "Pustaka kombo The Strongest Battlegrounds dengan rute pemula, rantai dinding, dan konfirmasi khusus karakter.",
+      "metaTitle": "Kombo The Strongest Battlegrounds - Rute Dinding dan Rantai Karakter",
+      "metaDescription": "Latih rute kombo The Strongest Battlegrounds dengan rantai starter yang jelas, ekstensi dinding, dan konfirmasi khusus karakter.",
+      "categoryLabel": "KOMBO",
+      "whatIs": "Apa itu kategori Kombo The Strongest Battlegrounds?",
+      "whatIsDescription": "Kategori ini berfokus pada rute kombo praktis, waktu ekstensi, dan pilihan hukuman yang dapat digunakan dalam latensi server nyata.",
+      "why": "Mengapa melatih kombo The Strongest Battlegrounds?",
+      "whySteps": {
+        "step1Title": "Konversi pukulan secara konsisten",
+        "step1Description": "Pelajari starter yang stabil dan konfirmasi singkat yang mendarat dengan andal sebelum mencoba rute lanjutan.",
+        "step2Title": "Tingkatkan waktu tekanan dinding",
+        "step2Description": "Gunakan pola jarak dan penundaan yang membuat musuh terpaku tanpa menjatuhkan urutan inti.",
+        "step3Title": "Beradaptasi berdasarkan karakter",
+        "step3Description": "Terapkan variasi rute untuk Hero, Garou, dan gaya lainnya sehingga konfirmasi Anda sesuai dengan pilihan utama Anda."
+      },
+      "featured": "Unggulan & Penting",
+      "all": "Semua Artikel Kombo"
+    },
+    "updates": {
+      "title": "Pembaruan The Strongest Battlegrounds",
+      "description": "Pelacak pembaruan The Strongest Battlegrounds untuk catatan patch, waktu rilis, dan ringkasan konten baru.",
+      "metaTitle": "Pembaruan The Strongest Battlegrounds - Catatan Patch dan Pelacakan Rilis",
+      "metaDescription": "Ikuti pembaruan The Strongest Battlegrounds dengan sorotan patch, waktu rilis, dan detail peluncuran karakter/konten.",
+      "categoryLabel": "PEMBARUAN",
+      "whatIs": "Apa itu kategori Pembaruan The Strongest Battlegrounds?",
+      "whatIsDescription": "Kategori ini melacak siklus patch, sorotan rilis utama, dan konteks hitungan mundur pembaruan untuk merencanakan sesi Anda berikutnya.",
+      "why": "Mengapa mengikuti pembaruan The Strongest Battlegrounds?",
+      "whySteps": {
+        "step1Title": "Tetap siap untuk perubahan keseimbangan",
+        "step1Description": "Identifikasi nerf, buff, dan tweak sistem yang mengubah alur pertandingan dan keandalan kombo.",
+        "step2Title": "Lacak jendela rilis",
+        "step2Description": "Gunakan cakupan waktu pembaruan untuk merencanakan sesi grinding dan jendela perekaman konten.",
+        "step3Title": "Tangkap peluncuran fitur baru",
+        "step3Description": "Tinjau penambahan besar dengan cepat sehingga Anda dapat menguji karakter, mekanisme, atau kosmetik segera setelah dirilis."
+      },
+      "featured": "Unggulan & Penting",
+      "all": "Semua Artikel Pembaruan"
+    },
+    "cosmetics": {
+      "title": "Kosmetik The Strongest Battlegrounds",
+      "description": "Pusat kosmetik The Strongest Battlegrounds untuk ID jubah, aset ikon, dan kustomisasi gaya profil.",
+      "metaTitle": "Kosmetik The Strongest Battlegrounds - ID Jubah, Ikon, dan Gaya",
+      "metaDescription": "Jelajahi kosmetik The Strongest Battlegrounds termasuk ID jubah, sumber daya ikon, dan referensi kustomisasi profil.",
+      "categoryLabel": "KOSMETIK",
+      "whatIs": "Apa itu kategori Kosmetik The Strongest Battlegrounds?",
+      "whatIsDescription": "Kategori ini mencakup sumber daya kustomisasi penampilan seperti ID jubah, paket ikon, dan referensi gaya visual.",
+      "why": "Mengapa menggunakan panduan kosmetik The Strongest Battlegrounds?",
+      "whySteps": {
+        "step1Title": "Sesuaikan profil Anda",
+        "step1Description": "Temukan ID yang andal dan referensi visual untuk mencocokkan gaya pilihan dan identitas klan Anda.",
+        "step2Title": "Hemat waktu penyiapan",
+        "step2Description": "Gunakan daftar terorganisir untuk menghindari pengujian berulang dalam game saat mengubah perlengkapan kosmetik.",
+        "step3Title": "Lacak tren visual",
+        "step3Description": "Bandingkan tampilan populer dan perubahan gaya musiman untuk menyegarkan profil Anda secara efisien."
+      },
+      "featured": "Unggulan & Penting",
+      "all": "Semua Artikel Kosmetik"
+    },
+    "emotes": {
+      "title": "Emote The Strongest Battlegrounds",
+      "description": "Pusat emote The Strongest Battlegrounds untuk emote gratis, emote terbatas, dan panduan perilaku membuka kunci.",
+      "metaTitle": "Emote The Strongest Battlegrounds - Gratis, Terbatas, dan Panduan Membuka Kunci",
+      "metaDescription": "Temukan emote The Strongest Battlegrounds dengan jalur membuka kunci gratis, catatan ketersediaan terbatas, dan tips penggunaan.",
+      "categoryLabel": "EMOTE",
+      "whatIs": "Apa itu kategori Emote The Strongest Battlegrounds?",
+      "whatIsDescription": "Kategori ini mendokumentasikan jenis emote, metode membuka kunci, detail ketersediaan terbatas, dan catatan penggunaan praktis.",
+      "why": "Mengapa menjelajahi emote The Strongest Battlegrounds?",
+      "whySteps": {
+        "step1Title": "Buka kunci emote yang berguna lebih cepat",
+        "step1Description": "Ikuti catatan membuka kunci langsung untuk emote gratis dan acara tanpa membuang waktu coba-coba.",
+        "step2Title": "Lacak ketersediaan terbatas",
+        "step2Description": "Periksa status emote terbatas dan jendela acara sehingga Anda dapat memprioritaskan pembukaan kunci yang sensitif waktu.",
+        "step3Title": "Tingkatkan kehadiran sosial",
+        "step3Description": "Gunakan set emote untuk klip, sesi tim, dan interaksi lobi yang sesuai dengan gaya bermain Anda."
+      },
+      "featured": "Unggulan & Penting",
+      "all": "Semua Artikel Emote"
+    }
   }
 }
