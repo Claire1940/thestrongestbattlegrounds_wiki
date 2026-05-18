@@ -114,7 +114,7 @@ export default function HomePageClient({ latestArticles, locale }: HomePageClien
       </section>
 
       <section className="px-4 py-14 md:py-20 bg-white/[0.02]">
-        <div className="mx-auto w-full max-w-7xl">
+        <div className="mx-auto w-full max-w-5xl">
           <div className="text-center mb-8 md:mb-12 scroll-reveal">
             <h2 className="text-3xl md:text-5xl font-bold mb-3 md:mb-4">
               {t.tools.title} <span className="text-[hsl(var(--nav-theme-light))]">{t.tools.titleHighlight}</span>
