@@ -1,3 +1,4 @@
+import { setRequestLocale } from 'next-intl/server'
 import { getLatestArticles } from '@/lib/getLatestArticles'
 import { buildModuleLinkMap } from '@/lib/buildModuleLinkMap'
 import type { Language } from '@/lib/content'
@@ -10,6 +11,7 @@ interface PageProps {
 
 export async function generateMetadata({ params }: PageProps): Promise<Metadata> {
   const { locale } = await params
+  setRequestLocale(locale)
   const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://thestrongestbattlegrounds.wiki'
   const url = locale === 'en' ? siteUrl : `${siteUrl}/${locale}`
   const title = 'The Strongest Battlegrounds Wiki - Codes, Tier List & Combos'
@@ -39,6 +41,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
 
 export default async function HomePage({ params }: PageProps) {
   const { locale } = await params
+  setRequestLocale(locale)
 
   // 服务器端获取最新文章数据
   const latestArticles = await getLatestArticles(locale as Language, 30)
