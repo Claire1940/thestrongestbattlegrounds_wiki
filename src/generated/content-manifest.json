@@ -1,0 +1,698 @@
+{
+  "en": {
+    "characters": [
+      {
+        "slug": "the-strongest-battlegrounds-best-character",
+        "file": "the-strongest-battlegrounds-best-character"
+      },
+      {
+        "slug": "the-strongest-battlegrounds-characters",
+        "file": "the-strongest-battlegrounds-characters"
+      },
+      {
+        "slug": "the-strongest-battlegrounds-cosmic-garou",
+        "file": "the-strongest-battlegrounds-cosmic-garou"
+      },
+      {
+        "slug": "the-strongest-battlegrounds-garou",
+        "file": "the-strongest-battlegrounds-garou"
+      },
+      {
+        "slug": "the-strongest-battlegrounds-kj",
+        "file": "the-strongest-battlegrounds-kj"
+      },
+      {
+        "slug": "the-strongest-battlegrounds-martial-artist",
+        "file": "the-strongest-battlegrounds-martial-artist"
+      },
+      {
+        "slug": "the-strongest-battlegrounds-tech-prodigy",
+        "file": "the-strongest-battlegrounds-tech-prodigy"
+      },
+      {
+        "slug": "the-strongest-battlegrounds-wild-psychic",
+        "file": "the-strongest-battlegrounds-wild-psychic"
+      }
+    ],
+    "combos": [
+      {
+        "slug": "the-strongest-battlegrounds-combo",
+        "file": "the-strongest-battlegrounds-combo"
+      },
+      {
+        "slug": "the-strongest-battlegrounds-garou-combos",
+        "file": "the-strongest-battlegrounds-garou-combos"
+      },
+      {
+        "slug": "the-strongest-battlegrounds-hero-combo",
+        "file": "the-strongest-battlegrounds-hero-combo"
+      },
+      {
+        "slug": "the-strongest-battlegrounds-martial-artist-combo",
+        "file": "the-strongest-battlegrounds-martial-artist-combo"
+      },
+      {
+        "slug": "the-strongest-battlegrounds-one-shot-combo",
+        "file": "the-strongest-battlegrounds-one-shot-combo"
+      },
+      {
+        "slug": "the-strongest-battlegrounds-wall-combo",
+        "file": "the-strongest-battlegrounds-wall-combo"
+      },
+      {
+        "slug": "the-strongest-battlegrounds-wombo-combo",
+        "file": "the-strongest-battlegrounds-wombo-combo"
+      }
+    ],
+    "cosmetics": [
+      {
+        "slug": "the-strongest-battlegrounds-background",
+        "file": "the-strongest-battlegrounds-background"
+      },
+      {
+        "slug": "the-strongest-battlegrounds-cape-id",
+        "file": "the-strongest-battlegrounds-cape-id"
+      },
+      {
+        "slug": "the-strongest-battlegrounds-icons",
+        "file": "the-strongest-battlegrounds-icons"
+      },
+      {
+        "slug": "the-strongest-battlegrounds-logo",
+        "file": "the-strongest-battlegrounds-logo"
+      },
+      {
+        "slug": "the-strongest-battlegrounds-vip-cape-id",
+        "file": "the-strongest-battlegrounds-vip-cape-id"
+      }
+    ],
+    "emotes": [
+      {
+        "slug": "the-strongest-battlegrounds-barber-haircut-emote",
+        "file": "the-strongest-battlegrounds-barber-haircut-emote"
+      },
+      {
+        "slug": "the-strongest-battlegrounds-basketball-emote",
+        "file": "the-strongest-battlegrounds-basketball-emote"
+      },
+      {
+        "slug": "the-strongest-battlegrounds-emotes",
+        "file": "the-strongest-battlegrounds-emotes"
+      },
+      {
+        "slug": "the-strongest-battlegrounds-free-emote",
+        "file": "the-strongest-battlegrounds-free-emote"
+      },
+      {
+        "slug": "the-strongest-battlegrounds-kill-emotes",
+        "file": "the-strongest-battlegrounds-kill-emotes"
+      },
+      {
+        "slug": "the-strongest-battlegrounds-limited-emotes",
+        "file": "the-strongest-battlegrounds-limited-emotes"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "the-strongest-battlegrounds-beginner-guide",
+        "file": "the-strongest-battlegrounds-beginner-guide"
+      },
+      {
+        "slug": "the-strongest-battlegrounds-controls-pc",
+        "file": "the-strongest-battlegrounds-controls-pc"
+      },
+      {
+        "slug": "the-strongest-battlegrounds-how-to-block",
+        "file": "the-strongest-battlegrounds-how-to-block"
+      },
+      {
+        "slug": "the-strongest-battlegrounds-how-to-get-better",
+        "file": "the-strongest-battlegrounds-how-to-get-better"
+      },
+      {
+        "slug": "the-strongest-battlegrounds-how-to-not-lag",
+        "file": "the-strongest-battlegrounds-how-to-not-lag"
+      },
+      {
+        "slug": "the-strongest-battlegrounds-how-to-play",
+        "file": "the-strongest-battlegrounds-how-to-play"
+      },
+      {
+        "slug": "the-strongest-battlegrounds-how-to-shift-lock",
+        "file": "the-strongest-battlegrounds-how-to-shift-lock"
+      },
+      {
+        "slug": "the-strongest-battlegrounds-spectator-mode",
+        "file": "the-strongest-battlegrounds-spectator-mode"
+      }
+    ],
+    "updates": [
+      {
+        "slug": "the-strongest-battlegrounds-cosmic-garou-update",
+        "file": "the-strongest-battlegrounds-cosmic-garou-update"
+      },
+      {
+        "slug": "the-strongest-battlegrounds-latest-update",
+        "file": "the-strongest-battlegrounds-latest-update"
+      },
+      {
+        "slug": "the-strongest-battlegrounds-next-update",
+        "file": "the-strongest-battlegrounds-next-update"
+      },
+      {
+        "slug": "the-strongest-battlegrounds-update-countdown",
+        "file": "the-strongest-battlegrounds-update-countdown"
+      },
+      {
+        "slug": "the-strongest-battlegrounds-update",
+        "file": "the-strongest-battlegrounds-update"
+      },
+      {
+        "slug": "the-strongest-battlegrounds-yielding-arts",
+        "file": "the-strongest-battlegrounds-yielding-arts"
+      }
+    ]
+  },
+  "es": {
+    "characters": [
+      {
+        "slug": "the-strongest-battlegrounds-best-character",
+        "file": "the-strongest-battlegrounds-best-character"
+      },
+      {
+        "slug": "the-strongest-battlegrounds-characters",
+        "file": "the-strongest-battlegrounds-characters"
+      },
+      {
+        "slug": "the-strongest-battlegrounds-cosmic-garou",
+        "file": "the-strongest-battlegrounds-cosmic-garou"
+      },
+      {
+        "slug": "the-strongest-battlegrounds-garou",
+        "file": "the-strongest-battlegrounds-garou"
+      },
+      {
+        "slug": "the-strongest-battlegrounds-kj",
+        "file": "the-strongest-battlegrounds-kj"
+      },
+      {
+        "slug": "the-strongest-battlegrounds-martial-artist",
+        "file": "the-strongest-battlegrounds-martial-artist"
+      },
+      {
+        "slug": "the-strongest-battlegrounds-tech-prodigy",
+        "file": "the-strongest-battlegrounds-tech-prodigy"
+      },
+      {
+        "slug": "the-strongest-battlegrounds-wild-psychic",
+        "file": "the-strongest-battlegrounds-wild-psychic"
+      }
+    ],
+    "combos": [
+      {
+        "slug": "the-strongest-battlegrounds-combo",
+        "file": "the-strongest-battlegrounds-combo"
+      },
+      {
+        "slug": "the-strongest-battlegrounds-garou-combos",
+        "file": "the-strongest-battlegrounds-garou-combos"
+      },
+      {
+        "slug": "the-strongest-battlegrounds-hero-combo",
+        "file": "the-strongest-battlegrounds-hero-combo"
+      },
+      {
+        "slug": "the-strongest-battlegrounds-martial-artist-combo",
+        "file": "the-strongest-battlegrounds-martial-artist-combo"
+      },
+      {
+        "slug": "the-strongest-battlegrounds-one-shot-combo",
+        "file": "the-strongest-battlegrounds-one-shot-combo"
+      },
+      {
+        "slug": "the-strongest-battlegrounds-wall-combo",
+        "file": "the-strongest-battlegrounds-wall-combo"
+      },
+      {
+        "slug": "the-strongest-battlegrounds-wombo-combo",
+        "file": "the-strongest-battlegrounds-wombo-combo"
+      }
+    ],
+    "cosmetics": [
+      {
+        "slug": "the-strongest-battlegrounds-background",
+        "file": "the-strongest-battlegrounds-background"
+      },
+      {
+        "slug": "the-strongest-battlegrounds-cape-id",
+        "file": "the-strongest-battlegrounds-cape-id"
+      },
+      {
+        "slug": "the-strongest-battlegrounds-icons",
+        "file": "the-strongest-battlegrounds-icons"
+      },
+      {
+        "slug": "the-strongest-battlegrounds-logo",
+        "file": "the-strongest-battlegrounds-logo"
+      },
+      {
+        "slug": "the-strongest-battlegrounds-vip-cape-id",
+        "file": "the-strongest-battlegrounds-vip-cape-id"
+      }
+    ],
+    "emotes": [
+      {
+        "slug": "the-strongest-battlegrounds-barber-haircut-emote",
+        "file": "the-strongest-battlegrounds-barber-haircut-emote"
+      },
+      {
+        "slug": "the-strongest-battlegrounds-basketball-emote",
+        "file": "the-strongest-battlegrounds-basketball-emote"
+      },
+      {
+        "slug": "the-strongest-battlegrounds-emotes",
+        "file": "the-strongest-battlegrounds-emotes"
+      },
+      {
+        "slug": "the-strongest-battlegrounds-free-emote",
+        "file": "the-strongest-battlegrounds-free-emote"
+      },
+      {
+        "slug": "the-strongest-battlegrounds-kill-emotes",
+        "file": "the-strongest-battlegrounds-kill-emotes"
+      },
+      {
+        "slug": "the-strongest-battlegrounds-limited-emotes",
+        "file": "the-strongest-battlegrounds-limited-emotes"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "the-strongest-battlegrounds-beginner-guide",
+        "file": "the-strongest-battlegrounds-beginner-guide"
+      },
+      {
+        "slug": "the-strongest-battlegrounds-controls-pc",
+        "file": "the-strongest-battlegrounds-controls-pc"
+      },
+      {
+        "slug": "the-strongest-battlegrounds-how-to-block",
+        "file": "the-strongest-battlegrounds-how-to-block"
+      },
+      {
+        "slug": "the-strongest-battlegrounds-how-to-get-better",
+        "file": "the-strongest-battlegrounds-how-to-get-better"
+      },
+      {
+        "slug": "the-strongest-battlegrounds-how-to-not-lag",
+        "file": "the-strongest-battlegrounds-how-to-not-lag"
+      },
+      {
+        "slug": "the-strongest-battlegrounds-how-to-play",
+        "file": "the-strongest-battlegrounds-how-to-play"
+      },
+      {
+        "slug": "the-strongest-battlegrounds-how-to-shift-lock",
+        "file": "the-strongest-battlegrounds-how-to-shift-lock"
+      },
+      {
+        "slug": "the-strongest-battlegrounds-spectator-mode",
+        "file": "the-strongest-battlegrounds-spectator-mode"
+      }
+    ],
+    "updates": [
+      {
+        "slug": "the-strongest-battlegrounds-cosmic-garou-update",
+        "file": "the-strongest-battlegrounds-cosmic-garou-update"
+      },
+      {
+        "slug": "the-strongest-battlegrounds-latest-update",
+        "file": "the-strongest-battlegrounds-latest-update"
+      },
+      {
+        "slug": "the-strongest-battlegrounds-next-update",
+        "file": "the-strongest-battlegrounds-next-update"
+      },
+      {
+        "slug": "the-strongest-battlegrounds-update-countdown",
+        "file": "the-strongest-battlegrounds-update-countdown"
+      },
+      {
+        "slug": "the-strongest-battlegrounds-update",
+        "file": "the-strongest-battlegrounds-update"
+      },
+      {
+        "slug": "the-strongest-battlegrounds-yielding-arts",
+        "file": "the-strongest-battlegrounds-yielding-arts"
+      }
+    ]
+  },
+  "fr": {
+    "characters": [
+      {
+        "slug": "the-strongest-battlegrounds-best-character",
+        "file": "the-strongest-battlegrounds-best-character"
+      },
+      {
+        "slug": "the-strongest-battlegrounds-characters",
+        "file": "the-strongest-battlegrounds-characters"
+      },
+      {
+        "slug": "the-strongest-battlegrounds-cosmic-garou",
+        "file": "the-strongest-battlegrounds-cosmic-garou"
+      },
+      {
+        "slug": "the-strongest-battlegrounds-garou",
+        "file": "the-strongest-battlegrounds-garou"
+      },
+      {
+        "slug": "the-strongest-battlegrounds-kj",
+        "file": "the-strongest-battlegrounds-kj"
+      },
+      {
+        "slug": "the-strongest-battlegrounds-martial-artist",
+        "file": "the-strongest-battlegrounds-martial-artist"
+      },
+      {
+        "slug": "the-strongest-battlegrounds-tech-prodigy",
+        "file": "the-strongest-battlegrounds-tech-prodigy"
+      },
+      {
+        "slug": "the-strongest-battlegrounds-wild-psychic",
+        "file": "the-strongest-battlegrounds-wild-psychic"
+      }
+    ],
+    "combos": [
+      {
+        "slug": "the-strongest-battlegrounds-combo",
+        "file": "the-strongest-battlegrounds-combo"
+      },
+      {
+        "slug": "the-strongest-battlegrounds-garou-combos",
+        "file": "the-strongest-battlegrounds-garou-combos"
+      },
+      {
+        "slug": "the-strongest-battlegrounds-hero-combo",
+        "file": "the-strongest-battlegrounds-hero-combo"
+      },
+      {
+        "slug": "the-strongest-battlegrounds-martial-artist-combo",
+        "file": "the-strongest-battlegrounds-martial-artist-combo"
+      },
+      {
+        "slug": "the-strongest-battlegrounds-one-shot-combo",
+        "file": "the-strongest-battlegrounds-one-shot-combo"
+      },
+      {
+        "slug": "the-strongest-battlegrounds-wall-combo",
+        "file": "the-strongest-battlegrounds-wall-combo"
+      },
+      {
+        "slug": "the-strongest-battlegrounds-wombo-combo",
+        "file": "the-strongest-battlegrounds-wombo-combo"
+      }
+    ],
+    "cosmetics": [
+      {
+        "slug": "the-strongest-battlegrounds-background",
+        "file": "the-strongest-battlegrounds-background"
+      },
+      {
+        "slug": "the-strongest-battlegrounds-cape-id",
+        "file": "the-strongest-battlegrounds-cape-id"
+      },
+      {
+        "slug": "the-strongest-battlegrounds-icons",
+        "file": "the-strongest-battlegrounds-icons"
+      },
+      {
+        "slug": "the-strongest-battlegrounds-logo",
+        "file": "the-strongest-battlegrounds-logo"
+      },
+      {
+        "slug": "the-strongest-battlegrounds-vip-cape-id",
+        "file": "the-strongest-battlegrounds-vip-cape-id"
+      }
+    ],
+    "emotes": [
+      {
+        "slug": "the-strongest-battlegrounds-barber-haircut-emote",
+        "file": "the-strongest-battlegrounds-barber-haircut-emote"
+      },
+      {
+        "slug": "the-strongest-battlegrounds-basketball-emote",
+        "file": "the-strongest-battlegrounds-basketball-emote"
+      },
+      {
+        "slug": "the-strongest-battlegrounds-emotes",
+        "file": "the-strongest-battlegrounds-emotes"
+      },
+      {
+        "slug": "the-strongest-battlegrounds-free-emote",
+        "file": "the-strongest-battlegrounds-free-emote"
+      },
+      {
+        "slug": "the-strongest-battlegrounds-kill-emotes",
+        "file": "the-strongest-battlegrounds-kill-emotes"
+      },
+      {
+        "slug": "the-strongest-battlegrounds-limited-emotes",
+        "file": "the-strongest-battlegrounds-limited-emotes"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "the-strongest-battlegrounds-beginner-guide",
+        "file": "the-strongest-battlegrounds-beginner-guide"
+      },
+      {
+        "slug": "the-strongest-battlegrounds-controls-pc",
+        "file": "the-strongest-battlegrounds-controls-pc"
+      },
+      {
+        "slug": "the-strongest-battlegrounds-how-to-block",
+        "file": "the-strongest-battlegrounds-how-to-block"
+      },
+      {
+        "slug": "the-strongest-battlegrounds-how-to-get-better",
+        "file": "the-strongest-battlegrounds-how-to-get-better"
+      },
+      {
+        "slug": "the-strongest-battlegrounds-how-to-not-lag",
+        "file": "the-strongest-battlegrounds-how-to-not-lag"
+      },
+      {
+        "slug": "the-strongest-battlegrounds-how-to-play",
+        "file": "the-strongest-battlegrounds-how-to-play"
+      },
+      {
+        "slug": "the-strongest-battlegrounds-how-to-shift-lock",
+        "file": "the-strongest-battlegrounds-how-to-shift-lock"
+      },
+      {
+        "slug": "the-strongest-battlegrounds-spectator-mode",
+        "file": "the-strongest-battlegrounds-spectator-mode"
+      }
+    ],
+    "updates": [
+      {
+        "slug": "the-strongest-battlegrounds-cosmic-garou-update",
+        "file": "the-strongest-battlegrounds-cosmic-garou-update"
+      },
+      {
+        "slug": "the-strongest-battlegrounds-latest-update",
+        "file": "the-strongest-battlegrounds-latest-update"
+      },
+      {
+        "slug": "the-strongest-battlegrounds-next-update",
+        "file": "the-strongest-battlegrounds-next-update"
+      },
+      {
+        "slug": "the-strongest-battlegrounds-update-countdown",
+        "file": "the-strongest-battlegrounds-update-countdown"
+      },
+      {
+        "slug": "the-strongest-battlegrounds-update",
+        "file": "the-strongest-battlegrounds-update"
+      },
+      {
+        "slug": "the-strongest-battlegrounds-yielding-arts",
+        "file": "the-strongest-battlegrounds-yielding-arts"
+      }
+    ]
+  },
+  "pt": {
+    "characters": [
+      {
+        "slug": "the-strongest-battlegrounds-best-character",
+        "file": "the-strongest-battlegrounds-best-character"
+      },
+      {
+        "slug": "the-strongest-battlegrounds-characters",
+        "file": "the-strongest-battlegrounds-characters"
+      },
+      {
+        "slug": "the-strongest-battlegrounds-cosmic-garou",
+        "file": "the-strongest-battlegrounds-cosmic-garou"
+      },
+      {
+        "slug": "the-strongest-battlegrounds-garou",
+        "file": "the-strongest-battlegrounds-garou"
+      },
+      {
+        "slug": "the-strongest-battlegrounds-kj",
+        "file": "the-strongest-battlegrounds-kj"
+      },
+      {
+        "slug": "the-strongest-battlegrounds-martial-artist",
+        "file": "the-strongest-battlegrounds-martial-artist"
+      },
+      {
+        "slug": "the-strongest-battlegrounds-tech-prodigy",
+        "file": "the-strongest-battlegrounds-tech-prodigy"
+      },
+      {
+        "slug": "the-strongest-battlegrounds-wild-psychic",
+        "file": "the-strongest-battlegrounds-wild-psychic"
+      }
+    ],
+    "combos": [
+      {
+        "slug": "the-strongest-battlegrounds-combo",
+        "file": "the-strongest-battlegrounds-combo"
+      },
+      {
+        "slug": "the-strongest-battlegrounds-garou-combos",
+        "file": "the-strongest-battlegrounds-garou-combos"
+      },
+      {
+        "slug": "the-strongest-battlegrounds-hero-combo",
+        "file": "the-strongest-battlegrounds-hero-combo"
+      },
+      {
+        "slug": "the-strongest-battlegrounds-martial-artist-combo",
+        "file": "the-strongest-battlegrounds-martial-artist-combo"
+      },
+      {
+        "slug": "the-strongest-battlegrounds-one-shot-combo",
+        "file": "the-strongest-battlegrounds-one-shot-combo"
+      },
+      {
+        "slug": "the-strongest-battlegrounds-wall-combo",
+        "file": "the-strongest-battlegrounds-wall-combo"
+      },
+      {
+        "slug": "the-strongest-battlegrounds-wombo-combo",
+        "file": "the-strongest-battlegrounds-wombo-combo"
+      }
+    ],
+    "cosmetics": [
+      {
+        "slug": "the-strongest-battlegrounds-background",
+        "file": "the-strongest-battlegrounds-background"
+      },
+      {
+        "slug": "the-strongest-battlegrounds-cape-id",
+        "file": "the-strongest-battlegrounds-cape-id"
+      },
+      {
+        "slug": "the-strongest-battlegrounds-icons",
+        "file": "the-strongest-battlegrounds-icons"
+      },
+      {
+        "slug": "the-strongest-battlegrounds-logo",
+        "file": "the-strongest-battlegrounds-logo"
+      },
+      {
+        "slug": "the-strongest-battlegrounds-vip-cape-id",
+        "file": "the-strongest-battlegrounds-vip-cape-id"
+      }
+    ],
+    "emotes": [
+      {
+        "slug": "the-strongest-battlegrounds-barber-haircut-emote",
+        "file": "the-strongest-battlegrounds-barber-haircut-emote"
+      },
+      {
+        "slug": "the-strongest-battlegrounds-basketball-emote",
+        "file": "the-strongest-battlegrounds-basketball-emote"
+      },
+      {
+        "slug": "the-strongest-battlegrounds-emotes",
+        "file": "the-strongest-battlegrounds-emotes"
+      },
+      {
+        "slug": "the-strongest-battlegrounds-free-emote",
+        "file": "the-strongest-battlegrounds-free-emote"
+      },
+      {
+        "slug": "the-strongest-battlegrounds-kill-emotes",
+        "file": "the-strongest-battlegrounds-kill-emotes"
+      },
+      {
+        "slug": "the-strongest-battlegrounds-limited-emotes",
+        "file": "the-strongest-battlegrounds-limited-emotes"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "the-strongest-battlegrounds-beginner-guide",
+        "file": "the-strongest-battlegrounds-beginner-guide"
+      },
+      {
+        "slug": "the-strongest-battlegrounds-controls-pc",
+        "file": "the-strongest-battlegrounds-controls-pc"
+      },
+      {
+        "slug": "the-strongest-battlegrounds-how-to-block",
+        "file": "the-strongest-battlegrounds-how-to-block"
+      },
+      {
+        "slug": "the-strongest-battlegrounds-how-to-get-better",
+        "file": "the-strongest-battlegrounds-how-to-get-better"
+      },
+      {
+        "slug": "the-strongest-battlegrounds-how-to-not-lag",
+        "file": "the-strongest-battlegrounds-how-to-not-lag"
+      },
+      {
+        "slug": "the-strongest-battlegrounds-how-to-play",
+        "file": "the-strongest-battlegrounds-how-to-play"
+      },
+      {
+        "slug": "the-strongest-battlegrounds-how-to-shift-lock",
+        "file": "the-strongest-battlegrounds-how-to-shift-lock"
+      },
+      {
+        "slug": "the-strongest-battlegrounds-spectator-mode",
+        "file": "the-strongest-battlegrounds-spectator-mode"
+      }
+    ],
+    "updates": [
+      {
+        "slug": "the-strongest-battlegrounds-cosmic-garou-update",
+        "file": "the-strongest-battlegrounds-cosmic-garou-update"
+      },
+      {
+        "slug": "the-strongest-battlegrounds-latest-update",
+        "file": "the-strongest-battlegrounds-latest-update"
+      },
+      {
+        "slug": "the-strongest-battlegrounds-next-update",
+        "file": "the-strongest-battlegrounds-next-update"
+      },
+      {
+        "slug": "the-strongest-battlegrounds-update-countdown",
+        "file": "the-strongest-battlegrounds-update-countdown"
+      },
+      {
+        "slug": "the-strongest-battlegrounds-update",
+        "file": "the-strongest-battlegrounds-update"
+      },
+      {
+        "slug": "the-strongest-battlegrounds-yielding-arts",
+        "file": "the-strongest-battlegrounds-yielding-arts"
+      }
+    ]
+  }
+}
